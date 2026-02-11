@@ -1,3 +1,11 @@
+# Data
+# Ignore all files in the data directory, but keep the directory structure and .gitkeep files.
+data/*
+!data/**/
+!data/**/.gitkeep
+*.csv
+*.txt.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
