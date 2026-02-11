@@ -1,0 +1,18 @@
+# Deep Learning & GNNs
+torch
+torch-geometric
+scikit-learn
+
+# Data Processing
+pyspark
+pandas
+numpy
+faker
+
+# Deployment & Visualization
+fastapi
+uvicorn
+networkx
+plotly
+matplotlib
+seaborn
