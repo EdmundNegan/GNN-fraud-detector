@@ -16,3 +16,6 @@ networkx
 plotly
 matplotlib
 seaborn
+
+# Git & Version Control
+nbstripout
